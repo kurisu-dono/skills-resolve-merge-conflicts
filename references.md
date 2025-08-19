@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is a sample reference for the my-resume branch
